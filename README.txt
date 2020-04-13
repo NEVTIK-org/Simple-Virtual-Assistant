@@ -1,4 +1,4 @@
-# JANE "Just a Naive Engine"
+## JANE "Just a Naive Engine"
 
 Requirements :
 
