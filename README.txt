@@ -27,4 +27,5 @@ If JANE isn't understand with your sentence it will asking for,
 You can teach JANE,
 You can open an application with JANE (Beta),
 Say "Exit" to end conservation.
+
 Contact the creator : hermawansentyakisarjito@nevtik.org
